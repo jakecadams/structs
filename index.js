@@ -1,0 +1,19 @@
+// Data Structures are Listed in Alphabetical Order
+module.exports.Bag = require('./mods/Bag');
+module.exports.BinarySearchTree = require('./mods/BinarySearchTree');
+module.exports.BloomFilters = require('./mods/BloomFilters');
+module.exports.DoublyLinkedList = require('./mods/DoublyLinkedList');
+module.exports.Graph = require('./mods/Graph');
+module.exports.Heap = require('./mods/Heap');
+module.exports.LinkedList = require('./mods/LinkedList');
+module.exports.LinkedMap = require('./mods/LinkedMap');
+module.exports.Map = require('./mods/Map');
+module.exports.Matrix = require('./mods/Matrix')
+module.exports.Pool = require('./mods/Pool');
+module.exports.RedBlackTree = require('./mods/RedBlackTree');
+module.exports.Set = require('./mods/Set');
+module.exports.Stack = require('./mods/Stack');
+module.exports.Trie = require('./mods/Trie');
+module.exports.Tree = require('./mods/Tree');
+module.exports.QuadTree = require('./mods/QuadTree');
+module.exports.Queue = require('./mods/Queue');

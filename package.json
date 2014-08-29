@@ -1,0 +1,27 @@
+{
+  "name": "structs",
+  "version": "0.0.0",
+  "description": "A JavaScript data structures library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jakecadams/structs"
+  },
+  "keywords": [
+    "javascript",
+    "data",
+    "structures"
+  ],
+  "author": "jakecadams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jakecadams/structs/issues"
+  },
+  "homepage": "https://github.com/jakecadams/structs",
+  "dependencies": {
+    "lodash": "^2.4.1"
+  }
+}
