@@ -1,5 +1,5 @@
 #Structs - WIP
-----------------------------------
+
 
 ##JavaScript Data Structure Library
 
