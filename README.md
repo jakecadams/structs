@@ -1,5 +1,6 @@
-#Structs - WIP
+*Note: this is a personal project and is very incomplete. If you really want a great data structures library, You should checkout (mori)[http://swannodette.github.io/mori/]
 
+#Structs - WIP
 
 ##JavaScript Data Structure Library
 
